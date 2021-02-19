@@ -144,7 +144,7 @@ class Troubleshooter {
 
 					
 				</div>
-				<div class="buttonCol">
+				<div class="buttonCol" style="display:none;">
 					<div class="btn-group-vertical bodyButtonGroup" style="display:none;" id="bodyButtonGroup2" role="group" aria-label="...">
 						<button type="button" class="btn btn-default">Latest ServiceAgreement TODO</button>
 						<button type="button" class="btn btn-default">Last 12 DetailedBill TODO</button>
